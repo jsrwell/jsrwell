@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello, I'm Wellington Jackson!! 👋
+A software engineering student and technology enthusiast. Passionate about web development and always seeking new challenges to enhance my skills.
 
-<!--
-**jsrwell/jsrwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 I’m currently working on building my portfolio and improving my skills
+- 🐍 Actually learning Python and Django
+- 🤝🏻 Looking for network and opportunities in the software dev industry
+- 🤙🏻 Pronouns: he/him
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/jsrwell">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jsrwell&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsrwell&langs_count=16&layout=compact&theme=tokyonight" />
+</div>

@@ -3,8 +3,7 @@ A software engineering student and technology enthusiast. Passionate about web d
 
 - 💻 I’m currently working on building my portfolio and improving my skills
 - 🐍 Actually learning Python and Django
-- 🤝🏻 Looking for network and opportunities in the software dev industry
-- 🤙🏻 Pronouns: he/him
+- 🌐 Looking for network and opportunities in the software dev industry
 
 <div align="center">
   <a href="https://github.com/jsrwell">

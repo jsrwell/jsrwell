@@ -47,6 +47,4 @@ A software engineering student and technology enthusiast. Passionate about web d
  </div>
 
 ##
- <div align="center">
-  [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jsrwell)](https://github.com/anuraghazra/github-readme-stats)
- </div>
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jsrwell)](https://github.com/anuraghazra/github-readme-stats)

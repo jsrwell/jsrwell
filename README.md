@@ -1,9 +1,9 @@
-### Hello, I'm Wellington Jackson!! 👋
-A software engineering student and technology enthusiast. Passionate about web development and always seeking new challenges to enhance my skills.
+## Hello, I'm Wellington Jackson!! 👋
+Fullstack Developer specializing in Python with Django, currently working in an integrated solutions company where I develop programs for both internal and external environments. As a Software Engineering student and technology enthusiast, I am passionate about development and always seeking new challenges to enhance my skills.
 
-- 💻 I’m currently working on building my portfolio and improving my skills
-- 🐍 Actually learning Python and Django
-- 🌐 Looking for network and opportunities in the software dev industry
+- 💻 I’m currently working as a Fullstack Developer in an integrated solutions company;
+- 🐍 I am currently focusing on learning and improving my skills in Python and Django;
+- 🌐 I am always on the lookout for new networking opportunities and chances to grow within the software development industry.
 
 ##
 <div align="center">

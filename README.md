@@ -14,6 +14,12 @@ Fullstack Developer specializing in Python with Django, currently working in an 
   
 ##
 <div align="center">
+  <a href="https://github.com/jsrwell-esiexata">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jsrwell-esiexat&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+</div>
+  
+##
+<div align="center">
   <p><strong>t e c h n o l o g i e s </strong></p>
   <div style="display: inline_block" align="center">
     <img align="center" alt="Well-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">

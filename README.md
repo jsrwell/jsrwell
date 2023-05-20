@@ -15,7 +15,8 @@ Fullstack Developer specializing in Python with Django, currently working in an 
 ##
 <div align="center">
   <a href="https://github.com/jsrwell-esiexata">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jsrwell-esiexat&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+    <p><strong> Secondary Account </strong></p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jsrwell-esiexata&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
 </div>
   
 ##

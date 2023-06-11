@@ -2,7 +2,7 @@
 Fullstack Developer specializing in Python with Django, currently working in an integrated solutions company where I develop programs for both internal and external environments. As a Software Engineering student and technology enthusiast, I am passionate about development and always seeking new challenges to enhance my skills.
 
 - 💻 I’m currently working as a Fullstack Developer in an integrated solutions company;
-- 🐍 I am currently focusing on learning and improving my skills in Python and Django;
+- 🐍 Python + Django + Js + HTML/CSS/Js + PostgreSQL;
 - 🌐 I am always on the lookout for new networking opportunities and chances to grow within the software development industry.
 
 ##
@@ -15,7 +15,7 @@ Fullstack Developer specializing in Python with Django, currently working in an 
 ##
 <div align="center">
   <a href="https://github.com/jsrwell-esiexata">
-    <p><strong> Secondary ESI Account - Commits Numbers </strong></p>
+    <p><strong> Work Account - ESI - Commits </strong></p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jsrwell-esiexata&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
   

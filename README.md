@@ -2,7 +2,7 @@
 Fullstack Developer specializing in Python with Django, currently working in an integrated solutions company where I develop programs for both internal and external environments. As a Software Engineering student and technology enthusiast, I am passionate about development and always seeking new challenges to enhance my skills.
 
 - 💻 I’m currently working as a Fullstack Developer in an integrated solutions company;
-- 🐍 Python + Django + Js + HTML/CSS/Js + PostgreSQL;
+- 🐍 Python | Django | Js | HTML | CSS | PostgreSQL;
 - 🌐 I am always on the lookout for new networking opportunities and chances to grow within the software development industry.
 
 ##

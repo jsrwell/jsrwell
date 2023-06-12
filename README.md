@@ -3,7 +3,7 @@ Fullstack Developer specializing in Python with Django, currently working in an 
 
 - 💻 I’m currently working as a Fullstack Developer in an integrated solutions company;
 - 🐍 Python | Django | Js | HTML | CSS | PostgreSQL;
-- 🌐 I am always on the lookout for new networking opportunities and chances to grow within the software development industry.
+- 🌐 Looking for networking opportunities and ways to grow up in the software development carrer.
 
 ##
 <div align="center">

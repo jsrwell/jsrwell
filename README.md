@@ -1,8 +1,9 @@
 ## Hello, I'm Wellington Jackson!! 👋
 Fullstack Developer specializing in Python with Django, currently working in an integrated solutions company where I develop programs for both internal and external environments. As a Software Engineering student and technology enthusiast, I am passionate about development and always seeking new challenges to enhance my skills.
 ```
-def actual_work:
-    💻 = "I’m currently working as a Fullstack Developer in an integrated solutions company"
+def experience(working = true):
+    if working:
+        return "💻 I’m currently working in a company as a Fullstack Developer with Python/Django, Javascript and C/C++"
 
 void mainLanguages
 {

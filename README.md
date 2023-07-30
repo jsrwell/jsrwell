@@ -5,7 +5,7 @@ def experience(working = true):
     if working:
         return "💻 I’m currently working in a company as a Fullstack Developer with Python/Django, Javascript and C/C++"
 
-void mainLanguages(void)
+void stacks(void)
 {
     String 🐍 = "Python | Django | JS | C/C++ | HTML | CSS | PostgreSQL";
     if (🐍 != "")
@@ -14,7 +14,7 @@ void mainLanguages(void)
     }
 }
 
-const network = 🌐 => "Looking for networking opportunities and ways to grow up in the software development carrer";
+const network = () => "🌐 Looking for networking opportunities and ways to grow up in the software development carrer";
 ```
  
 ##

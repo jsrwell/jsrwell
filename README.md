@@ -6,7 +6,7 @@ def actual_work:
 
 void mainLanguages
 {
-    🐍 = "Python | Django | JS | C++ | HTML | CSS | PostgreSQL";
+    🐍 = "Python | Django | JS | C/C++ | HTML | CSS | PostgreSQL";
 }
 
 const network = 🌐 => "Looking for networking opportunities and ways to grow up in the software development carrer";

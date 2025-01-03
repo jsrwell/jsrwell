@@ -1,21 +1,34 @@
-## Hello, I'm Wellington Jackson!! 👋
-Fullstack Developer specializing in Python with Django, currently working in an integrated solutions company where I develop programs for both internal and external environments. As a Software Engineering student and technology enthusiast, I am passionate about development and always seeking new challenges to enhance my skills.
-```
-def experience(working = true):
-    if working:
-        return "💻 I’m currently working in a company as a Fullstack Developer with Python/Django, Javascript and C/C++"
+# Yeah, it's me! 👨‍💻  
 
-void stacks(void)
-{
-    String 🐍 = "Python | Django | JS | C/C++ | HTML | CSS | PostgreSQL";
-    if (🐍 != "")
-    {
-        Serial.println(🐍);
-    }
-}
+Hi! I'm a **Software Engineer** and **Founder & CTO at OW Technologies**, as well as a proud member of the international society **Mensa**. I specialize in developing scalable and efficient web systems, with a focus on architecture, automation, and integrations.  
 
-const network = () => "🌐 Looking for networking opportunities and ways to grow up in the software development carrer";
-```
+## 💡 What I Do:  
+- Design and build end-to-end solutions.  
+- Develop and maintain APIs (REST/SOAP), MQTT servers, and dashboards.  
+- Create seamless integrations with external systems.  
+- Ensure robust and reliable systems through automated testing and agile practices.  
+
+## 💼 Key Skills:  
+
+### Backend Expertise:  
+- **Python:** Django | Flask | FastAPI | PyTest | DRF | Selenium  
+- **SQL:** SQLServer | MySQL | PostgreSQL | MongoDB  
+- **Node.js:** Express.js | TypeScript  
+- **C/C++:** System programming and Arduino  
+
+### Frontend Proficiency:  
+- React.js | JavaScript | HTML | CSS | Bootstrap | JQuery  
+
+### DevOps & Tools:  
+- Docker | Celery | RabbitMQ | Redis  
+- Git | GitHub | GitLab  
+
+## 🌱 Currently Exploring:  
+- Advanced AI/ML solutions and cloud-native architectures.  
+
+## ⚡ Fun Fact:  
+As a Mensa member, I love solving complex problems and continuously improving my technical and creative skills.  
+
  
 ##
 <div align="center">
@@ -42,29 +55,6 @@ const network = () => "🌐 Looking for networking opportunities and ways to gro
   <a href="https://instagram.com/jsrwell" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/jsrwell" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.codewars.com/users/jsrwell" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E.svg?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank"></a>
-</div>
-  
-##
- <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jsrwell/jsrwell/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jsrwell/jsrwell/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jsrwell/jsrwell/output/github-contribution-grid-snake.svg">
-  </picture>
- </div>
-
-##
-<div align="center">
-  <a href="https://github.com/jsrwell">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jsrwell&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsrwell&layout=compact&langs_count=7&theme=transparent"/>
-</div>
-  
-##
-<div align="center">
-  <a href="https://github.com/jsrwell-esiexata">
-    <p><strong> Click Here to See My Secondary Account - ESI </strong></p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jsrwell-esiexata&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 ##

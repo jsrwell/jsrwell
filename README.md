@@ -8,6 +8,12 @@ Hi! I'm a **Software Engineer** and **Founder & CTO at OW Technologies**, as wel
 - Create seamless integrations with external systems.  
 - Ensure robust and reliable systems through automated testing and agile practices.  
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jsrwell/jsrwell/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jsrwell/jsrwell/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jsrwell/jsrwell/output/pacman-contribution-graph.svg">
+</picture>
+
 ## 💼 Key Skills:  
 
 ### Backend Expertise:  

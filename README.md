@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Software Engineer | <a href="https://www.linkedin.com/company/ow-technologies/">@OW Technologies</a> | <a href="https://www.mensa.org/">Mensa Member</a></h1>
+  <h1>Senior Software Engineer | <a href="https://www.linkedin.com/company/ow-technologies/">@OW Technologies</a> | <a href="https://www.mensa.org/">Mensa Member</a></h1>
   <p>
     <i>"Anything is possible, the real question is, how long are you going to wait?"</i>
   </p>
@@ -58,6 +58,8 @@
   </table>
 </div>
 
+<br>
+
 <h2><samp>&gt; Featured Projects & Experience</samp></h2>
 
 | Special Projects / Companies                      | Description                                                                                                                                                                                                                                                                                                  | Tech Stack                                                                                                                                                                                                                                                                                                                                                                                                                           |
@@ -83,6 +85,8 @@
   <img src="./assets/gojo-eyes.gif" width="300" alt="Looking around" />
 </div>
 
+<br>
+
 <h2><samp>&gt; My Activity</samp></h2>
 <div align="center">
   <picture>
@@ -91,6 +95,8 @@
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jsrwell/jsrwell/output/pacman-contribution-graph.svg">
   </picture>
 </div>
+
+<br>
 
 <h2><samp>&gt; Well, well, well...</samp></h2>
 <div align="center">

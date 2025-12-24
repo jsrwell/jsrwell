@@ -13,7 +13,7 @@
   <table>
     <tr>
       <td style="border: none; background: none;">
-        <img src="./assets/tp.gif" width="600" alt="Looking around" />
+        <img src="./assets/tp.gif" width="300" alt="Looking around" />
       </td>
       <td style="border: none; background: none;">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />

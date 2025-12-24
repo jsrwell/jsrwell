@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Software Engineer | Founder & CTO at OW Technologies | Mensa Member</h1>
+  <h1>Software Engineer | <a href="https://www.linkedin.com/company/ow-technologies/">@OW Technologies</a> | <a href="https://www.mensa.org/">Mensa Member</a></h1>
   <p>
     <i>"Anything is possible, the real question is, how long are you going to wait?"</i>
   </p>
